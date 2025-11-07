@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Shawon Saha</h1>  
    
-- 📝 [Blog (dev.to)](https://dev.to/shawon)
-- 🌐 [Github Pages](https://shawonsaha.github.io)
-- 📫 **shawonsaha@pm.me**
+- 📝 [Blog](https://dev.to/shawon)
+- 🌐 [Portfolio](https://shawonsaha.github.io)
+
 <!-- ### Blogs posts   -->
 <!-- BLOG-POST-LIST:START -->  
 <!-- BLOG-POST-LIST:END -->  
