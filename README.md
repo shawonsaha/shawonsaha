@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Shawon Saha</h1>  
-<h3 align="center">A passionate fullstack developer from Bangladesh 🇧🇩</h3>  
    
 - 📝 [Blog (dev.to)](https://dev.to/shawon)
 - 🌐 [Github Pages](https://shawonsaha.github.io)
