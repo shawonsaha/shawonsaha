@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Shawon Saha</h1>  
+<h1 align="center">Hi 👋, I'm Shawon</h1>  
    
 - 📝 [Blog](https://dev.to/shawon)
 - 🌐 [Portfolio](https://shawonsaha.github.io)
@@ -17,7 +17,7 @@
 <!-- <a href="https://codesandbox.com/shawonsaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="shawonsaha" height="30" width="40" /></a>  -->
 <!-- </p> -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shawonsaha&show_icons=true&theme=dark&locale=en&layout=compact" alt="shawonsaha" /></p>  
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shawonsaha&show_icons=true&theme=dark&locale=en&layout=compact" alt="shawonsaha" /></div>  
   
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shawonsaha&" alt="shawonsaha" /></p> -->
 <!--<br/ > -->
